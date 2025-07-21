@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "JeffLane.Rocks",
-  description: "Composer, Songwriter, Guitarist, Producer, Writer",
+  description:
+    "Composer, Songwriter, Guitarist, Producer, Writer.  Heart of Cygnus.",
 };
 
 export default function RootLayout({ children }) {
