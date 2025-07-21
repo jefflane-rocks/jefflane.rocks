@@ -1,2 +1,3 @@
-# jefflane.rocks
-Showcase website for my music
+# JeffLane.Rocks
+
+Website featuring the compositions of Jeff Lane.
