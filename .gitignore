@@ -24,3 +24,4 @@ lerna-debug.log*
 .tmp
 .DS_Store
 package-lock.json
+.next
