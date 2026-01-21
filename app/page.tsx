@@ -8,6 +8,16 @@ export default function Home() {
           <div className="grid place-items-center text-5xl mb-12 font-morris-roman">
             JeffLane.Rocks
           </div>
+          <div className="grid opacity-100! mb-12 place-items-center">
+            <Image
+              src="/Jeff-at-Transformerz-Studio.jpg"
+              alt="Burningdown"
+              width={414}
+              height={414}
+              priority
+              className="rounded-lg"
+            />
+          </div>
           <div className="grid text-justify w-140 inline-block mb-12">
             I&apos;m a composer, songwriter, lyricist, guitarist and singer. I
             also do mix engineering and production. Below are some samples of my
