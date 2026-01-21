@@ -12,13 +12,13 @@ export default function Home() {
             <Image
               src="/JeffLaneHomeStudio.jpeg"
               alt="Jeff Lane"
-              width={448}
-              height={540.528974739970282}
+              width={400}
+              height={482.615156017830609}
               priority
               className="rounded-lg"
             />
           </div>
-          <div className="grid text-justify w-md inline-block mb-12">
+          <div className="grid text-justify w-[400] inline-block mb-12">
             I&apos;m a composer, songwriter, lyricist, guitarist and singer. I
             also do mix engineering and production. Below are some samples of my
             work with my projects{" "}
@@ -45,8 +45,8 @@ export default function Home() {
           </div>
           <div className="grid place-items-center mb-12 opacity-100!">
             <iframe
-              width="448"
-              height="252"
+              width="400"
+              height="225"
               src="https://www.youtube.com/embed/dUajr1NJ3fI?si=I84qyh2GokWBmbOl"
               title="YouTube video player"
               frameBorder="0"
@@ -58,8 +58,8 @@ export default function Home() {
           </div>
           <div className="grid place-items-center mb-12 opacity-100!">
             <iframe
-              width="448"
-              height="252"
+              width="400"
+              height="225"
               src="https://www.youtube.com/embed/_Al0AtXGxfY?si=pjFN-wg5xjgyt4SA"
               title="YouTube video player"
               frameBorder="0"
@@ -70,8 +70,8 @@ export default function Home() {
           </div>
           <div className="grid place-items-center mb-12">
             <iframe
-              width="448"
-              height="252"
+              width="400"
+              height="225"
               src="https://www.youtube.com/embed/1pIWePrZepU?si=13SKwkXLeOfSThf-"
               title="YouTube video player"
               frameBorder="0"
@@ -82,8 +82,8 @@ export default function Home() {
           </div>
           <div className="grid place-items-center mb-12">
             <iframe
-              width="448"
-              height="252"
+              width="400"
+              height="225"
               src="https://www.youtube.com/embed/Dg58uBSxCes?si=A75ZsfuiaNwSA9vB"
               title="YouTube video player"
               frameBorder="0"
@@ -94,8 +94,8 @@ export default function Home() {
           </div>
           <div className="grid place-items-center mb-12">
             <iframe
-              width="448"
-              height="252"
+              width="400"
+              height="225"
               src="https://www.youtube.com/embed/S1rEiO__PL0?si=fmRVVRTld8chLDyd"
               title="YouTube video player"
               frameBorder="0"
@@ -107,8 +107,8 @@ export default function Home() {
           <div className="grid place-items-center mb-12">
             {/*               src="https://www.youtube.com/embed/YsVS-n6cVKo?si=k2hxOqqx1oI4o5aa" */}
             <iframe
-              width="448"
-              height="252"
+              width="400"
+              height="225"
               src="https://www.youtube.com/embed/YsVS-n6cVKo?si=k2hxOqqx1oI4o5aa"
               title="YouTube video player"
               frameBorder="0"
