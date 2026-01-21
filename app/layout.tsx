@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "JeffLane.Rocks",
   description:
     "Jeffrey Robert Lane, Composer, Songwriter, Guitarist and Singer.",
+  icons: {
+    icon: "/JeffLaneRocksIcon.png",
+  },
 };
 
 export default function RootLayout({
