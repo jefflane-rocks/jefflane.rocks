@@ -56,6 +56,18 @@ export default function Home() {
               className="bg-black opacity-100! backdrop-opacity-100!"
             ></iframe>
           </div>
+          <div className="grid place-items-center mb-12 opacity-100!">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/_Al0AtXGxfY?si=pjFN-wg5xjgyt4SA"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
           <div className="grid place-items-center mb-12">
             <iframe
               width="560"
@@ -85,6 +97,19 @@ export default function Home() {
               width="560"
               height="315"
               src="https://www.youtube.com/embed/S1rEiO__PL0?si=fmRVVRTld8chLDyd"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerPolicy="strict-origin-when-cross-origin"
+              allowFullScreen
+            ></iframe>
+          </div>
+          <div className="grid place-items-center mb-12">
+            {/*               src="https://www.youtube.com/embed/YsVS-n6cVKo?si=k2hxOqqx1oI4o5aa" */}
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/YsVS-n6cVKo?si=k2hxOqqx1oI4o5aa"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
