@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center font-sans bg-black-transparent">
-      <main className="min-h-screen w-full max-w-3xl grid place-items-center text-center items-center justify-between py-32 px-16 bg-black sm:items-start">
+    <div className="grid min-h-screen place-items-center justify-center font-sans bg-black-transparent">
+      <main className="min-h-screen w-full max-w-3xl grid place-items-center text-center items-center justify-between py-8 px-4 bg-black sm:items-start">
         <div className="w-full mr-auto ml-auto">
           <div className="grid place-items-center text-5xl mb-12 font-morris-roman">
             JeffLane.Rocks
