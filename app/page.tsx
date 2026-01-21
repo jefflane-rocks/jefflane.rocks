@@ -10,10 +10,10 @@ export default function Home() {
           </div>
           <div className="grid opacity-100! mb-12 place-items-center">
             <Image
-              src="/Jeff-at-Transformerz-Studio.jpg"
-              alt="Burningdown"
-              width={414}
-              height={414}
+              src="/JeffLaneHomeStudio.jpeg"
+              alt="Jeff Lane"
+              width={560}
+              height={675.661218424962853}
               priority
               className="rounded-lg"
             />
